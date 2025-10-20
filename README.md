@@ -41,4 +41,4 @@ Cohort and RFM analysis reveal clear retention patterns, enabling targeted loyal
 
 ---
 
-📧 **madebyblvck@gmail.com**
+**madebyblvck@gmail.com**
